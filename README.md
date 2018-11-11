@@ -21,9 +21,14 @@ For more information about the product, check [rainloop.net](http://www.rainloop
 Information about installing the product, check the [documentation page](http://www.rainloop.net/docs/installation/).
 
 ## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkromonos%2Frainloop-webmail.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkromonos%2Frainloop-webmail?ref=badge_shield)
+
 
 **RainLoop Webmail (Community edition)** is released under
 **GNU AFFERO GENERAL PUBLIC LICENSE Version 3 (AGPL)**.
 http://www.gnu.org/licenses/agpl-3.0.html
 
 Copyright (c) 2017 Rainloop Team
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkromonos%2Frainloop-webmail.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkromonos%2Frainloop-webmail?ref=badge_large)
